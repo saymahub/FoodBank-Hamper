@@ -1,4 +1,4 @@
-# ENSF409-W22Project
+# ENSF409-W22-Project
 
 This program would be used in food banks to create hampers for families of different sizes with different nutritional needs. The user will input information for their family and is able to request multiple hampers for more than one family. Once the program is complete, a .txt file called OrderForm will output, consisting of the original request made by the user and the least wasteful combination, to the best of the program's abilty, of foods from the inventory that will meet the family's needs for an entire week. The program also considers if the user needs mobility accomodation. This project is completed using VSCode in the Java language, utilizing concepts explored throughout the semester. The entire project consists of 8 .java files, 1 JUnit test file, 1 UML diagram, a video demonstation, and a sample order form created by the program.
 
